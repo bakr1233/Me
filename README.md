@@ -2,8 +2,8 @@
 <!-- font Ubuntu, size 100, 100 speed, 1500 time  -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Me.gif">
-  <img src="./Me.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./ME.gif">
+  <img src="./ME.gif">
 </picture>
 
 <!-- canva image gallery banner -->
